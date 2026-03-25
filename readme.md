@@ -17,7 +17,7 @@ This project demonstrates a **serverless data pipeline** where user details subm
   <img src="images/log.png" alt="Form UI" width="600"/>
 </p>
 <p align="center">
-  <img src="images/output.png" alt="Form UI" width="600"/>
+  <img src="images/output1.png" alt="Form UI" width="600"/>
 </p>
 ---
 
