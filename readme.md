@@ -11,10 +11,10 @@ This project demonstrates a **serverless data pipeline** where user details subm
 ### 📝 User Form UI
 
 <p align="center">
-  <img src="images/form.png" alt="Form UI" width="600"/>
+  <img src="images/ui.png" alt="Form UI" width="600"/>
 </p>
 <p align="center">
-  <img src="images/form1.png" alt="Form UI" width="600"/>
+  <img src="images/log.png" alt="Form UI" width="600"/>
 </p>
 <p align="center">
   <img src="images/output.png" alt="Form UI" width="600"/>
