@@ -19,6 +19,9 @@ This project demonstrates a **serverless data pipeline** where user details subm
 <p align="center">
   <img src="images/output1.png" alt="Form UI" width="600"/>
 </p>
+<p align="center">
+  <img src="images/aws-lambda-output.png" alt="Form UI" width="600"/>
+</p>
 ---
 
 ## 🧠 Architecture
